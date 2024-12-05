@@ -1,2 +1,4 @@
 .DS_Store
 .ipynb_checkpoints
+autoenv/
+edgedriver_mac64_m1/
