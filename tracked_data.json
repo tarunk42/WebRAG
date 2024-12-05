@@ -1,0 +1,243 @@
+[
+    {
+        "timestamp": 1727457826.034427,
+        "url": "about:blank",
+        "title": "",
+        "query_parameters": {}
+    },
+    {
+        "timestamp": 1727457846.1379352,
+        "url": "https://www.google.com/",
+        "title": "Google",
+        "query_parameters": {}
+    },
+    {
+        "timestamp": 1727457856.173599,
+        "url": "https://www.google.com/search?q=oldham+weather&sca_esv=8536d3cccb765549&sca_upv=1&source=hp&ei=NOr2ZonBAt-1hbIP1Lrv8Aw&iflsig=AL9hbdgAAAAAZvb4RFvUgEO_fwyNkZDYwkRj1QRjoKgT&oq=old&gs_lp=Egdnd3Mtd2l6GgIYAyIDb2xkKgIIADIREAAYgAQYsQMYgwEY-AUYiwMyCxAAGIAEGLEDGIsDMhQQLhiABBixAxiDARioAxiLAxibAzIaEC4YgAQYsQMYgwEYpgMYxwEYqAMYiwMYrwEyCxAAGIAEGLEDGIsDMg4QABiABBixAxiDARiLAzIUEC4YgAQYsQMYogUYqAMYiwMYnQMyDhAAGIAEGLEDGIMBGIsDMggQABiABBiLAzIdEC4YgAQYsQMYgwEYpgMYxwEYqAMYiwMYjgUYrwFIjCNQ0hBYgxVwAXgAkAEAmAFaoAH5AaoBATO4AQPIAQD4AQGYAgSgApgCqAIKwgIQEAAYAxjlAhjqAhiMAxiPAcICEBAuGAMY5QIY6gIYjAMYjwHCAgsQABiABBixAxiDAcICFxAuGIAEGLEDGNEDGNIDGMcBGKgDGIsDwgIaEC4YgAQYsQMY0QMY0gMYgwEYxwEYqAMYiwPCAhoQLhiABBixAxiDARimAxj4BRioAxiKBRiLA8ICHRAuGIAEGLEDGIMBGKYDGMcBGKgDGIoFGIsDGK8BwgIREC4YgAQYogUYqAMYiwMYnQPCAg4QABiABBimAxioAxiLA8ICERAuGIAEGKgDGJgDGJoDGIsDwgIUEC4YgAQYsQMYqAMYmAMYmgMYiwOYAwiSBwE0oAefKw&sclient=gws-wiz",
+        "title": "oldham weather - Google Search",
+        "query_parameters": {
+            "q": [
+                "oldham weather"
+            ],
+            "sca_esv": [
+                "8536d3cccb765549"
+            ],
+            "sca_upv": [
+                "1"
+            ],
+            "source": [
+                "hp"
+            ],
+            "ei": [
+                "NOr2ZonBAt-1hbIP1Lrv8Aw"
+            ],
+            "iflsig": [
+                "AL9hbdgAAAAAZvb4RFvUgEO_fwyNkZDYwkRj1QRjoKgT"
+            ],
+            "oq": [
+                "old"
+            ],
+            "gs_lp": [
+                "Egdnd3Mtd2l6GgIYAyIDb2xkKgIIADIREAAYgAQYsQMYgwEY-AUYiwMyCxAAGIAEGLEDGIsDMhQQLhiABBixAxiDARioAxiLAxibAzIaEC4YgAQYsQMYgwEYpgMYxwEYqAMYiwMYrwEyCxAAGIAEGLEDGIsDMg4QABiABBixAxiDARiLAzIUEC4YgAQYsQMYogUYqAMYiwMYnQMyDhAAGIAEGLEDGIMBGIsDMggQABiABBiLAzIdEC4YgAQYsQMYgwEYpgMYxwEYqAMYiwMYjgUYrwFIjCNQ0hBYgxVwAXgAkAEAmAFaoAH5AaoBATO4AQPIAQD4AQGYAgSgApgCqAIKwgIQEAAYAxjlAhjqAhiMAxiPAcICEBAuGAMY5QIY6gIYjAMYjwHCAgsQABiABBixAxiDAcICFxAuGIAEGLEDGNEDGNIDGMcBGKgDGIsDwgIaEC4YgAQYsQMY0QMY0gMYgwEYxwEYqAMYiwPCAhoQLhiABBixAxiDARimAxj4BRioAxiKBRiLA8ICHRAuGIAEGLEDGIMBGKYDGMcBGKgDGIoFGIsDGK8BwgIREC4YgAQYogUYqAMYiwMYnQPCAg4QABiABBimAxioAxiLA8ICERAuGIAEGKgDGJgDGJoDGIsDwgIUEC4YgAQYsQMYqAMYmAMYmgMYiwOYAwiSBwE0oAefKw"
+            ],
+            "sclient": [
+                "gws-wiz"
+            ]
+        }
+    },
+    {
+        "timestamp": 1727457868.2254562,
+        "url": "https://www.bbc.co.uk/weather/2641022",
+        "title": "Oldham - BBC Weather",
+        "query_parameters": {}
+    },
+    {
+        "timestamp": 1727457884.292992,
+        "url": "https://www.google.com/search?q=oldham+weather&sca_esv=8536d3cccb765549&sca_upv=1&source=hp&ei=NOr2ZonBAt-1hbIP1Lrv8Aw&iflsig=AL9hbdgAAAAAZvb4RFvUgEO_fwyNkZDYwkRj1QRjoKgT&oq=old&gs_lp=Egdnd3Mtd2l6GgIYAyIDb2xkKgIIADIREAAYgAQYsQMYgwEY-AUYiwMyCxAAGIAEGLEDGIsDMhQQLhiABBixAxiDARioAxiLAxibAzIaEC4YgAQYsQMYgwEYpgMYxwEYqAMYiwMYrwEyCxAAGIAEGLEDGIsDMg4QABiABBixAxiDARiLAzIUEC4YgAQYsQMYogUYqAMYiwMYnQMyDhAAGIAEGLEDGIMBGIsDMggQABiABBiLAzIdEC4YgAQYsQMYgwEYpgMYxwEYqAMYiwMYjgUYrwFIjCNQ0hBYgxVwAXgAkAEAmAFaoAH5AaoBATO4AQPIAQD4AQGYAgSgApgCqAIKwgIQEAAYAxjlAhjqAhiMAxiPAcICEBAuGAMY5QIY6gIYjAMYjwHCAgsQABiABBixAxiDAcICFxAuGIAEGLEDGNEDGNIDGMcBGKgDGIsDwgIaEC4YgAQYsQMY0QMY0gMYgwEYxwEYqAMYiwPCAhoQLhiABBixAxiDARimAxj4BRioAxiKBRiLA8ICHRAuGIAEGLEDGIMBGKYDGMcBGKgDGIoFGIsDGK8BwgIREC4YgAQYogUYqAMYiwMYnQPCAg4QABiABBimAxioAxiLA8ICERAuGIAEGKgDGJgDGJoDGIsDwgIUEC4YgAQYsQMYqAMYmAMYmgMYiwOYAwiSBwE0oAefKw&sclient=gws-wiz",
+        "title": "oldham weather - Google Search",
+        "query_parameters": {
+            "q": [
+                "oldham weather"
+            ],
+            "sca_esv": [
+                "8536d3cccb765549"
+            ],
+            "sca_upv": [
+                "1"
+            ],
+            "source": [
+                "hp"
+            ],
+            "ei": [
+                "NOr2ZonBAt-1hbIP1Lrv8Aw"
+            ],
+            "iflsig": [
+                "AL9hbdgAAAAAZvb4RFvUgEO_fwyNkZDYwkRj1QRjoKgT"
+            ],
+            "oq": [
+                "old"
+            ],
+            "gs_lp": [
+                "Egdnd3Mtd2l6GgIYAyIDb2xkKgIIADIREAAYgAQYsQMYgwEY-AUYiwMyCxAAGIAEGLEDGIsDMhQQLhiABBixAxiDARioAxiLAxibAzIaEC4YgAQYsQMYgwEYpgMYxwEYqAMYiwMYrwEyCxAAGIAEGLEDGIsDMg4QABiABBixAxiDARiLAzIUEC4YgAQYsQMYogUYqAMYiwMYnQMyDhAAGIAEGLEDGIMBGIsDMggQABiABBiLAzIdEC4YgAQYsQMYgwEYpgMYxwEYqAMYiwMYjgUYrwFIjCNQ0hBYgxVwAXgAkAEAmAFaoAH5AaoBATO4AQPIAQD4AQGYAgSgApgCqAIKwgIQEAAYAxjlAhjqAhiMAxiPAcICEBAuGAMY5QIY6gIYjAMYjwHCAgsQABiABBixAxiDAcICFxAuGIAEGLEDGNEDGNIDGMcBGKgDGIsDwgIaEC4YgAQYsQMY0QMY0gMYgwEYxwEYqAMYiwPCAhoQLhiABBixAxiDARimAxj4BRioAxiKBRiLA8ICHRAuGIAEGLEDGIMBGKYDGMcBGKgDGIoFGIsDGK8BwgIREC4YgAQYogUYqAMYiwMYnQPCAg4QABiABBimAxioAxiLA8ICERAuGIAEGKgDGJgDGJoDGIsDwgIUEC4YgAQYsQMYqAMYmAMYmgMYiwOYAwiSBwE0oAefKw"
+            ],
+            "sclient": [
+                "gws-wiz"
+            ]
+        }
+    },
+    {
+        "timestamp": 1727457892.322036,
+        "url": "https://www.accuweather.com/en/gb/oldham/ol9-6/weather-forecast/329263",
+        "title": "Oldham, Oldham, United Kingdom Weather Forecast | AccuWeather",
+        "query_parameters": {}
+    },
+    {
+        "timestamp": 1727457928.4758139,
+        "url": "https://www.accuweather.com/en/gb/oldham/ol9-6/hourly-weather-forecast/329263",
+        "title": "Oldham, Oldham, United Kingdom Hourly Weather | AccuWeather",
+        "query_parameters": {}
+    },
+    {
+        "timestamp": 1727457934.5100758,
+        "url": "https://www.accuweather.com/en/gb/oldham/ol9-6/weather-forecast/329263",
+        "title": "",
+        "query_parameters": {}
+    },
+    {
+        "timestamp": 1727457942.545492,
+        "url": "https://www.google.com/search?q=oldham+weather&sca_esv=8536d3cccb765549&sca_upv=1&source=hp&ei=NOr2ZonBAt-1hbIP1Lrv8Aw&iflsig=AL9hbdgAAAAAZvb4RFvUgEO_fwyNkZDYwkRj1QRjoKgT&oq=old&gs_lp=Egdnd3Mtd2l6GgIYAyIDb2xkKgIIADIREAAYgAQYsQMYgwEY-AUYiwMyCxAAGIAEGLEDGIsDMhQQLhiABBixAxiDARioAxiLAxibAzIaEC4YgAQYsQMYgwEYpgMYxwEYqAMYiwMYrwEyCxAAGIAEGLEDGIsDMg4QABiABBixAxiDARiLAzIUEC4YgAQYsQMYogUYqAMYiwMYnQMyDhAAGIAEGLEDGIMBGIsDMggQABiABBiLAzIdEC4YgAQYsQMYgwEYpgMYxwEYqAMYiwMYjgUYrwFIjCNQ0hBYgxVwAXgAkAEAmAFaoAH5AaoBATO4AQPIAQD4AQGYAgSgApgCqAIKwgIQEAAYAxjlAhjqAhiMAxiPAcICEBAuGAMY5QIY6gIYjAMYjwHCAgsQABiABBixAxiDAcICFxAuGIAEGLEDGNEDGNIDGMcBGKgDGIsDwgIaEC4YgAQYsQMY0QMY0gMYgwEYxwEYqAMYiwPCAhoQLhiABBixAxiDARimAxj4BRioAxiKBRiLA8ICHRAuGIAEGLEDGIMBGKYDGMcBGKgDGIoFGIsDGK8BwgIREC4YgAQYogUYqAMYiwMYnQPCAg4QABiABBimAxioAxiLA8ICERAuGIAEGKgDGJgDGJoDGIsDwgIUEC4YgAQYsQMYqAMYmAMYmgMYiwOYAwiSBwE0oAefKw&sclient=gws-wiz",
+        "title": "oldham weather - Google Search",
+        "query_parameters": {
+            "q": [
+                "oldham weather"
+            ],
+            "sca_esv": [
+                "8536d3cccb765549"
+            ],
+            "sca_upv": [
+                "1"
+            ],
+            "source": [
+                "hp"
+            ],
+            "ei": [
+                "NOr2ZonBAt-1hbIP1Lrv8Aw"
+            ],
+            "iflsig": [
+                "AL9hbdgAAAAAZvb4RFvUgEO_fwyNkZDYwkRj1QRjoKgT"
+            ],
+            "oq": [
+                "old"
+            ],
+            "gs_lp": [
+                "Egdnd3Mtd2l6GgIYAyIDb2xkKgIIADIREAAYgAQYsQMYgwEY-AUYiwMyCxAAGIAEGLEDGIsDMhQQLhiABBixAxiDARioAxiLAxibAzIaEC4YgAQYsQMYgwEYpgMYxwEYqAMYiwMYrwEyCxAAGIAEGLEDGIsDMg4QABiABBixAxiDARiLAzIUEC4YgAQYsQMYogUYqAMYiwMYnQMyDhAAGIAEGLEDGIMBGIsDMggQABiABBiLAzIdEC4YgAQYsQMYgwEYpgMYxwEYqAMYiwMYjgUYrwFIjCNQ0hBYgxVwAXgAkAEAmAFaoAH5AaoBATO4AQPIAQD4AQGYAgSgApgCqAIKwgIQEAAYAxjlAhjqAhiMAxiPAcICEBAuGAMY5QIY6gIYjAMYjwHCAgsQABiABBixAxiDAcICFxAuGIAEGLEDGNEDGNIDGMcBGKgDGIsDwgIaEC4YgAQYsQMY0QMY0gMYgwEYxwEYqAMYiwPCAhoQLhiABBixAxiDARimAxj4BRioAxiKBRiLA8ICHRAuGIAEGLEDGIMBGKYDGMcBGKgDGIoFGIsDGK8BwgIREC4YgAQYogUYqAMYiwMYnQPCAg4QABiABBimAxioAxiLA8ICERAuGIAEGKgDGJgDGJoDGIsDwgIUEC4YgAQYsQMYqAMYmAMYmgMYiwOYAwiSBwE0oAefKw"
+            ],
+            "sclient": [
+                "gws-wiz"
+            ]
+        }
+    },
+    {
+        "timestamp": 1727457948.574429,
+        "url": "https://www.google.com/search?q=amazon+uk&sca_esv=8536d3cccb765549&sca_upv=1&ei=P-r2ZunzEubOhbIP7oebYQ&gs_ssp=eJzj4tDP1TfITc9OV2A0YHRg8OJMzE2sys9TKM0GAFcPBx8&oq=ama&gs_lp=Egxnd3Mtd2l6LXNlcnAaAhgCIgNhbWEqAggCMhAQLhiABBhDGMcBGIoFGK8BMgoQABiABBhDGIoFMhkQLhiABBixAxjRAxhDGIMBGMcBGMkDGIoFMgoQABiABBhDGIoFMhAQABiABBixAxhDGIMBGIoFMgoQABiABBhDGIoFMgsQABiABBiSAxiKBTILEAAYgAQYkgMYigUyDRAAGIAEGLEDGEMYigUyCxAAGIAEGLEDGIMBSN8bUP0LWPkNcAF4AJABAJgBcaABnQKqAQMyLjG4AQPIAQD4AQGYAgagAoUZqAIKwgIWEAAYAxi0AhjlAhjqAhiMAxiPAdgBAcICFhAuGAMYtAIY5QIY6gIYjAMYjwHYAQHCAhYQLhiABBixAxjRAxhDGIMBGMcBGIoFwgIaEC4YgAQYsQMY0QMY0gMYgwEYxwEYqAMYiwPCAhEQLhiABBixAxjRAxiDARjHAcICFBAuGIAEGNEDGNIDGMcBGKgDGIsDwgIUEC4YgAQYsQMYgwEYqAMYiwMYmwPCAhcQLhiABBixAxjRAxjSAxjHARioAxiLA8ICHxAuGIAEGEMYxwEYigUYrwEYlwUY3AQY3gQY4ATYAQKYAwm6BgQIARgKugYGCAIQARgUkgcHMy4xLjctMqAHnCg&sclient=gws-wiz-serp",
+        "title": "amazon uk - Google Search",
+        "query_parameters": {
+            "q": [
+                "amazon uk"
+            ],
+            "sca_esv": [
+                "8536d3cccb765549"
+            ],
+            "sca_upv": [
+                "1"
+            ],
+            "ei": [
+                "P-r2ZunzEubOhbIP7oebYQ"
+            ],
+            "gs_ssp": [
+                "eJzj4tDP1TfITc9OV2A0YHRg8OJMzE2sys9TKM0GAFcPBx8"
+            ],
+            "oq": [
+                "ama"
+            ],
+            "gs_lp": [
+                "Egxnd3Mtd2l6LXNlcnAaAhgCIgNhbWEqAggCMhAQLhiABBhDGMcBGIoFGK8BMgoQABiABBhDGIoFMhkQLhiABBixAxjRAxhDGIMBGMcBGMkDGIoFMgoQABiABBhDGIoFMhAQABiABBixAxhDGIMBGIoFMgoQABiABBhDGIoFMgsQABiABBiSAxiKBTILEAAYgAQYkgMYigUyDRAAGIAEGLEDGEMYigUyCxAAGIAEGLEDGIMBSN8bUP0LWPkNcAF4AJABAJgBcaABnQKqAQMyLjG4AQPIAQD4AQGYAgagAoUZqAIKwgIWEAAYAxi0AhjlAhjqAhiMAxiPAdgBAcICFhAuGAMYtAIY5QIY6gIYjAMYjwHYAQHCAhYQLhiABBixAxjRAxhDGIMBGMcBGIoFwgIaEC4YgAQYsQMY0QMY0gMYgwEYxwEYqAMYiwPCAhEQLhiABBixAxjRAxiDARjHAcICFBAuGIAEGNEDGNIDGMcBGKgDGIsDwgIUEC4YgAQYsQMYgwEYqAMYiwMYmwPCAhcQLhiABBixAxjRAxjSAxjHARioAxiLA8ICHxAuGIAEGEMYxwEYigUYrwEYlwUY3AQY3gQY4ATYAQKYAwm6BgQIARgKugYGCAIQARgUkgcHMy4xLjctMqAHnCg"
+            ],
+            "sclient": [
+                "gws-wiz-serp"
+            ]
+        }
+    },
+    {
+        "timestamp": 1727457950.581237,
+        "url": "https://www.amazon.co.uk/",
+        "title": "Amazon.co.uk: Low Prices in Electronics, Books, Sports Equipment & more",
+        "query_parameters": {}
+    },
+    {
+        "timestamp": 1727457956.6039062,
+        "url": "https://www.amazon.co.uk/s?k=led+strip+light&crid=1C71WBGPP0L49&sprefix=led+%2Caps%2C69&ref=nb_sb_ss_w_hit-vc-lth_led-strip-light_k0_1_4",
+        "title": "Amazon.co.uk : led strip light",
+        "query_parameters": {
+            "k": [
+                "led strip light"
+            ],
+            "crid": [
+                "1C71WBGPP0L49"
+            ],
+            "sprefix": [
+                "led ,aps,69"
+            ],
+            "ref": [
+                "nb_sb_ss_w_hit-vc-lth_led-strip-light_k0_1_4"
+            ]
+        }
+    },
+    {
+        "timestamp": 1727457958.614476,
+        "url": "https://www.amazon.co.uk/Color-Changing-Control-Lighting-Flexible-Decoration/dp/B08H1TRGLQ/ref=sr_1_1_sspa?crid=1C71WBGPP0L49&dib=eyJ2IjoiMSJ9.WbDEJr30bxQEuOCzDXWCRiK5NbI6pLCkw3k0h__yRjxKsaY2Z-XOEripGtivKazlBjjtDCFGaBQtted0Hi2c7661k3ZNBB4Tz2EMIA0QOh4a_Bf7Tp_pT_w5wTUjuk2BpbWSfzO5pQc_JIs7Aju5ubrWYACyzw8d3EIlgJ4jR2pLGDLHXXG_Pj_ILzEd8854fai-OuB4voAzaozGBzP_5FvErqdCkIEbmV1Cvi60wUwtAMXysDGxWFL66L4Mn9ywj6rciRFxW7qk9XiAMWAAMM5rpxRjBys1pPAkUVfnNFw.E3_SGg-WdIeVlCSVYI2uzQfPEI6moiiIyDk9yRgPTxc&dib_tag=se&keywords=led+strip+light&qid=1727457955&sprefix=led+%2Caps%2C69&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1",
+        "title": "KSIPZE 30m Led Strip Lights RGB Music Sync Color Changing, Led Lights with Smart App Control Remote, Led Lights for Bedroom Lighting Flexible Home Decoration : Amazon.co.uk: Lighting",
+        "query_parameters": {
+            "crid": [
+                "1C71WBGPP0L49"
+            ],
+            "dib": [
+                "eyJ2IjoiMSJ9.WbDEJr30bxQEuOCzDXWCRiK5NbI6pLCkw3k0h__yRjxKsaY2Z-XOEripGtivKazlBjjtDCFGaBQtted0Hi2c7661k3ZNBB4Tz2EMIA0QOh4a_Bf7Tp_pT_w5wTUjuk2BpbWSfzO5pQc_JIs7Aju5ubrWYACyzw8d3EIlgJ4jR2pLGDLHXXG_Pj_ILzEd8854fai-OuB4voAzaozGBzP_5FvErqdCkIEbmV1Cvi60wUwtAMXysDGxWFL66L4Mn9ywj6rciRFxW7qk9XiAMWAAMM5rpxRjBys1pPAkUVfnNFw.E3_SGg-WdIeVlCSVYI2uzQfPEI6moiiIyDk9yRgPTxc"
+            ],
+            "dib_tag": [
+                "se"
+            ],
+            "keywords": [
+                "led strip light"
+            ],
+            "qid": [
+                "1727457955"
+            ],
+            "sprefix": [
+                "led ,aps,69"
+            ],
+            "sr": [
+                "8-1-spons"
+            ],
+            "sp_csd": [
+                "d2lkZ2V0TmFtZT1zcF9hdGY"
+            ],
+            "psc": [
+                "1"
+            ]
+        }
+    },
+    {
+        "timestamp": 1727457962.625466,
+        "url": "https://www.amazon.co.uk/cart/smart-wagon?newItems=e7ee7e0c-d4cf-4947-9150-8aeffe20dcc3,1&ref_=sw_refresh",
+        "title": "Amazon.co.uk Shopping Basket",
+        "query_parameters": {
+            "newItems": [
+                "e7ee7e0c-d4cf-4947-9150-8aeffe20dcc3,1"
+            ],
+            "ref_": [
+                "sw_refresh"
+            ]
+        }
+    }
+]

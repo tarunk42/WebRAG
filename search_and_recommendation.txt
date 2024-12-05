@@ -1,0 +1,6 @@
+https://en.wikipedia.org/wiki/Singular_value_decomposition
+https://www.google.com/search?q=candidate+generation&oq=candidate+generation&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTE1NDU0ajBqMagCALACAA&sourceid=chrome&ie=UTF-8
+https://en.wikipedia.org/wiki/Collaborative_filtering#:~:text=In%20the%20more%20general%20sense,involve%20very%20large%20data%20sets.
+https://www.google.com/search?q=listwise+ranking&oq=listwise+ranking&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDY3NjdqMGoxqAIAsAIA&sourceid=chrome&ie=UTF-8#vhid=lHVPFYOlRrsffM&vssid=l
+https://www.google.com/search?q=matrix+factorization&oq=matrix+factorization&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDU1MDJqMGoxqAIAsAIA&sourceid=chrome&ie=UTF-8
+
